@@ -1,0 +1,17 @@
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\bin\Debug\net6.0-windows\ver_2.0.exe
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\bin\Debug\net6.0-windows\ver_2.0.deps.json
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\bin\Debug\net6.0-windows\ver_2.0.runtimeconfig.json
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\bin\Debug\net6.0-windows\ver_2.0.dll
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\bin\Debug\net6.0-windows\ver_2.0.pdb
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_2.0.csproj.AssemblyReference.cache
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_1._1.Form1.resources
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_2.0.csproj.GenerateResource.cache
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_2.0.AssemblyInfoInputs.cache
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_2.0.AssemblyInfo.cs
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_2.0.csproj.CoreCompileInputs.cache
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_2.0.dll
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\refint\ver_2.0.dll
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_2.0.pdb
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ver_2.0.genruntimeconfig.cache
+C:\Users\asanb\Downloads\SW PROJECT\ver_2.0\obj\Debug\net6.0-windows\ref\ver_2.0.dll

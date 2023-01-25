@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfPerson xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Person>
+    <Name>Esenbek</Name>
+    <Surname>Asanbaev</Surname>
+    <BirthYear>1999</BirthYear>
+    <PhoneNumber>123456789</PhoneNumber>
+    <TakenCar />
+  </Person>
+  <Person>
+    <Name>Alex</Name>
+    <Surname>Goodman</Surname>
+    <BirthYear>1989</BirthYear>
+    <PhoneNumber>121232343</PhoneNumber>
+    <TakenCar />
+  </Person>
+  <Person>
+    <Name>Earn</Name>
+    <Surname>Marks</Surname>
+    <BirthYear>1989</BirthYear>
+    <PhoneNumber>124656265</PhoneNumber>
+    <TakenCar>
+      <Vehicle xsi:type="Sedan">
+        <RegNumber>CH941PR</RegNumber>
+        <Company>Nissan</Company>
+        <Model>GTR</Model>
+        <Year>2011</Year>
+      </Vehicle>
+    </TakenCar>
+  </Person>
+</ArrayOfPerson>

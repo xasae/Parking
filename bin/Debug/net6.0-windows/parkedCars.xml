@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfVehicle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Vehicle xsi:type="Bus">
+    <RegNumber>NB036PR</RegNumber>
+    <Company>Toyota</Company>
+    <Model>Celica</Model>
+    <Year>1993</Year>
+  </Vehicle>
+  <Vehicle xsi:type="Bus">
+    <RegNumber>FD781KV</RegNumber>
+    <Company>Mercedes-Benz</Company>
+    <Model>Cargo Van</Model>
+    <Year>2022</Year>
+  </Vehicle>
+</ArrayOfVehicle>
